@@ -1,0 +1,977 @@
+{
+  "version": 1,
+  "stories": {
+    "pip-and-the-moonlit-rescue": {
+      "title": "Pip and the Moonlit Rescue",
+      "cover": "/covers/pip-and-the-moonlit-rescue.jpg",
+      "coverAlt": "A small brown mouse stands on a mossy stone, looking up at a young swift perched on a low branch under a starry night sky.",
+      "summary": "When a storm sweeps a young swift far from home, a small field mouse named Pip must find the courage to guide her back through the dark.",
+      "genres": [
+        "animal story"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-apricot-season": {
+      "title": "The Apricot Season",
+      "cover": "/covers/the-apricot-season.jpg",
+      "coverAlt": "A teenage girl stands on a wooden ladder in an orchard at dusk, reaching toward a single glowing apricot while her grandmother watches from below.",
+      "summary": "When her grandmother's apricot tree begins to fail, fourteen-year-old Nora must learn the old ways of the orchard before the last harvest passes them by.",
+      "genres": [
+        "family",
+        "slice of life"
+      ],
+      "ageTier": "13+"
+    },
+    "the-bell-in-the-fog": {
+      "title": "The Bell in the Fog",
+      "cover": "/covers/the-bell-in-the-fog.jpg",
+      "coverAlt": "An illustration of a girl and a scruffy dog standing beside a large brass bell on a foggy cliff, with a faint lighthouse beam cutting through the mist behind them.",
+      "summary": "When a strange fog swallows the harbor, a lighthouse keeper's daughter and a stray dog must ring the old warning bell to guide the fishing boats home before the tide turns.",
+      "genres": [
+        "adventure"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-bell-of-the-drowned-valley": {
+      "title": "The Bell of the Drowned Valley",
+      "cover": "/covers/the-bell-of-the-drowned-valley.jpg",
+      "coverAlt": "A girl and her brother stand on a stone ledge above a flooded valley, looking up at a great bronze bell hanging from a wooden frame, with mist rising from the water below.",
+      "summary": "When the river floods the valley, a girl and her brother must ring the old bell to warn the village before the water takes everything. But the bell has not been rung in a hundred years, and the only one who knows how is the ghost who guards it.",
+      "genres": [
+        "quest",
+        "spooky"
+      ],
+      "ageTier": "13+"
+    },
+    "the-borrowed-light": {
+      "title": "The Borrowed Light",
+      "cover": "/covers/the-borrowed-light.jpg",
+      "coverAlt": "A girl in a rust-colored coat holds a small glass jar with a faint glow inside, standing on a cobbled street at dusk while unlit iron lamps line the way behind her.",
+      "summary": "In a town where every lamp must be lit from the town's single flame, a girl discovers the fire is dying, and the only way to save it is to give up something she has kept hidden for years.",
+      "genres": [
+        "everyday magic"
+      ],
+      "ageTier": "13+"
+    },
+    "the-cartographer-of-stars": {
+      "title": "The Cartographer of Stars",
+      "cover": "/covers/the-cartographer-of-stars.jpg",
+      "coverAlt": "A girl with a brass compass and a rolled map stands on a hill at night, looking up at a sky where only a few stars remain, a dark figure visible on the horizon.",
+      "summary": "When the stars begin vanishing from the sky, a young mapmaker must cross the dark between worlds to find the one who is taking them — and decide what she is willing to give to bring them back.",
+      "genres": [
+        "quest",
+        "fantasy"
+      ],
+      "ageTier": "13+"
+    },
+    "the-case-of-the-vanishing-violin": {
+      "title": "The Case of the Vanishing Violin",
+      "cover": "/covers/the-case-of-the-vanishing-violin.jpg",
+      "coverAlt": "Maya and Sam crouch beside a music room cabinet, examining a small torn ribbon and a faint footprint on the floor.",
+      "summary": "When a beloved violin disappears from the school music room, young detective Maya and her friend Sam follow a trail of clues to uncover a surprising truth.",
+      "genres": [
+        "mystery"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-cat-who-knew-the-way-home": {
+      "title": "The Cat Who Knew the Way Home",
+      "cover": "/covers/the-cat-who-knew-the-way-home.jpg",
+      "coverAlt": "A small grey cat stands on a moonlit hilltop, looking down at a distant village with warm lights, while a fox and a badger sit beside him.",
+      "summary": "When a storm blows a young cat far from home, he must find his way back through the night, with help from a fox, a badger, and a very old cat who knows every star.",
+      "genres": [
+        "animal story",
+        "adventure"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-cat-who-led-the-night": {
+      "title": "The Cat Who Led the Night",
+      "cover": "/covers/the-cat-who-led-the-night.jpg",
+      "coverAlt": "A small grey cat stands at the front of a line of cats on a moonlit harbor wall, a faint glow ahead.",
+      "summary": "When a storm scatters the harbor cats, a shy young cat must find the courage to lead them home through the dark, guided by a mysterious light.",
+      "genres": [
+        "animal story",
+        "adventure"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-ferrymans-last-crossing": {
+      "title": "The Ferryman's Last Crossing",
+      "cover": "/covers/the-ferrymans-last-crossing.jpg",
+      "coverAlt": "A lone ferryman poles a small wooden boat across a swollen black river under a sky of cold stars, his lantern the only light.",
+      "summary": "On the night the river rises to take the village, a young ferryman must carry one final passenger across, though the fare may be more than he can pay.",
+      "genres": [
+        "myth and legend"
+      ],
+      "ageTier": "13+"
+    },
+    "the-first-line": {
+      "title": "The First Line",
+      "cover": "/covers/the-first-line.jpg",
+      "coverAlt": "A boy in a lamplit window at night, pen in hand, looking at an open ledger on the sill, with a dark hill rising beyond the glass.",
+      "series": "the-weather-ledger",
+      "seriesOrder": 1,
+      "summary": "Otis keeps the weather ledger for his grandfather, but one night a line appears in a hand that isn't his. A quiet, bright story about a boy, a hill, and a patient answer.",
+      "genres": [
+        "everyday magic",
+        "mystery"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-first-night": {
+      "title": "The First Night",
+      "cover": "/covers/the-first-night.jpg",
+      "coverAlt": "A girl in a yellow raincoat climbs a spiral staircase inside a lighthouse, carrying a small oil can, while rain streaks the window behind her.",
+      "series": "the-lantern-keepers",
+      "seriesOrder": 1,
+      "summary": "Nell and Tessa must keep the harbour light burning through a storm while their father is away. A story of courage, sisters, and the long dark hours before dawn.",
+      "genres": [
+        "family",
+        "adventure"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-fox-of-the-long-night": {
+      "title": "The Fox of the Long Night",
+      "cover": "/covers/the-fox-of-the-long-night.jpg",
+      "coverAlt": "A red fox with frost on its whiskers stands at the edge of a moonlit forest, looking back at a small figure holding a lantern.",
+      "summary": "When a starving fox breaks into the village henhouse, a girl must choose between the safety of her home and the wild creature's desperate need. A story of courage and friendship under the winter stars.",
+      "genres": [
+        "animal story",
+        "adventure"
+      ],
+      "ageTier": "13+"
+    },
+    "the-girl-who-held-the-wind": {
+      "title": "The Girl Who Held the Wind",
+      "cover": "/covers/the-girl-who-held-the-wind.jpg",
+      "coverAlt": "A girl in a patched green coat stands on a windy hilltop holding a glass jar up to the sky, her hair blowing wild, while a small grey cloud curls inside the jar like a sleepy cat.",
+      "summary": "When the wind over the valley falls asleep, a girl named Wren climbs the hill with a borrowed jar to wake it, and learns that some things are held best by letting go.",
+      "genres": [
+        "myth and legend"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-girl-who-kept-the-fire": {
+      "title": "The Girl Who Kept the Fire",
+      "cover": "/covers/the-girl-who-kept-the-fire.jpg",
+      "coverAlt": "A young girl in a hooded cloak cups a glowing coal in a clay pot as she climbs a snowy mountain path under a starry night sky.",
+      "summary": "When the fire in the village hearth goes out on the longest night, a girl named Ember must carry a single coal up the mountain to relight it, facing wind, snow, and her own doubt.",
+      "genres": [
+        "myth and legend",
+        "quest"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-girl-who-rang-the-bell": {
+      "title": "The Girl Who Rang the Bell",
+      "cover": "/covers/the-girl-who-rang-the-bell.jpg",
+      "coverAlt": "A girl with a lantern stands in a moonlit church tower, looking up at a heavy bronze bell, her shadow stretching long across the stone floor.",
+      "summary": "When Marisol moves to a village where the old church bell rings by itself at midnight, she sets out to discover who is pulling the rope. What she finds is not a ghost at all, but something that needs a friend.",
+      "genres": [
+        "spooky",
+        "mystery"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-girl-who-stole-the-stars": {
+      "title": "The Girl Who Stole the Stars",
+      "cover": "/covers/the-girl-who-stole-the-stars.jpg",
+      "coverAlt": "A young girl stands on a grassy hill at night, reaching up toward a sky with only a few faint stars, a small lantern glowing in her other hand.",
+      "summary": "When the night sky loses its stars, a brave girl must journey to the edge of the world to bring them back, learning that courage and friendship can light the darkest paths.",
+      "genres": [
+        "myth and legend",
+        "quest"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-goat-who-ate-everything": {
+      "title": "The Goat Who Ate Everything",
+      "cover": "/covers/the-goat-who-ate-everything.jpg",
+      "coverAlt": "A small brown goat with a red scarf around her neck stands on a wooden fence, chewing a blue sock, while a girl with a basket laughs below in a sunny village lane.",
+      "summary": "When a hungry goat eats a whole village's laundry, young Mira must track her down before the grumpy mayor notices - and discovers that the goat has been hiding a secret of her own.",
+      "genres": [
+        "funny",
+        "animal story"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-great-sock-rebellion": {
+      "title": "The Great Sock Rebellion",
+      "cover": "/covers/the-great-sock-rebellion.jpg",
+      "coverAlt": "A boy peeks into a laundry basket where a tiny sock wearing a bottle-cap helmet waves a flag made of dental floss.",
+      "summary": "When Milo's socks start disappearing from the laundry, he blames his sister. But the truth is stranger, funnier, and much more organized than he ever imagined.",
+      "genres": [
+        "funny",
+        "everyday magic"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-great-sock-rebellion-of-dormitory-nine": {
+      "title": "The Great Sock Rebellion of Dormitory Nine",
+      "cover": "/covers/the-great-sock-rebellion-of-dormitory-nine.jpg",
+      "coverAlt": "A determined boy in pajamas holds a flashlight over a towering, lumpy pile of odd socks that has sprouted a single woolly tentacle, while his friends peek from behind a bunk bed.",
+      "summary": "When every left sock in Dormitory Nine vanishes overnight, Milo and his friends must negotiate with the sock pile under the bed before the school's inspection—and before the pile eats the cat.",
+      "genres": [
+        "funny",
+        "everyday magic"
+      ],
+      "ageTier": "13+"
+    },
+    "the-house-that-counts-at-night": {
+      "title": "The House That Counts at Night",
+      "cover": "/covers/the-house-that-counts-at-night.jpg",
+      "coverAlt": "A girl in pyjamas holds a lantern at the top of a dark staircase, while a boy points at a glowing number on the wall.",
+      "summary": "When Lila moves into a creaky old house, she discovers the night noises are counting something. With her new friend Sam, she follows the numbers to the one room that never stops.",
+      "genres": [
+        "spooky",
+        "mystery"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-house-that-counts-the-hours": {
+      "title": "The House That Counts the Hours",
+      "cover": "/covers/placeholder.jpg",
+      "coverAlt": "A girl stands in a dim hallway holding a candle, while rows of tally marks glow faintly on the wallpaper behind her.",
+      "summary": "When Mira moves into her late grandmother's house, she discovers it keeps a ledger of every hour the family has lived there. The house wants one more entry, and it has chosen the coming midnight.",
+      "genres": [
+        "spooky",
+        "horror"
+      ],
+      "ageTier": "13+"
+    },
+    "the-house-that-hums-at-night": {
+      "title": "The House That Hums at Night",
+      "cover": "/covers/the-house-that-hums-at-night.jpg",
+      "coverAlt": "A girl and a boy sit on the floor of a dim attic, a dusty music box glowing faintly between them as moonlight streams through a round window.",
+      "summary": "When Mila moves into her grandmother's old house, she hears a strange humming at night. With her new friend Sam, she must uncover what the house wants before the sound fades forever.",
+      "genres": [
+        "spooky",
+        "mystery"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-house-that-waits-below": {
+      "title": "The House That Waits Below",
+      "cover": "/covers/the-house-that-waits-below.jpg",
+      "coverAlt": "A girl in a small rowboat shines a lantern across black water at a submerged house whose windows glow yellow beneath the surface.",
+      "summary": "A girl returns to the flooded valley where her grandmother drowned, to find the drowned house still lit and someone inside still waiting.",
+      "genres": [
+        "horror"
+      ],
+      "ageTier": "13+"
+    },
+    "the-keeper-of-the-crooked-bridge": {
+      "title": "The Keeper of the Crooked Bridge",
+      "cover": "/covers/the-keeper-of-the-crooked-bridge.jpg",
+      "coverAlt": "A girl in a patched cloak stands on a crooked stone bridge at dusk, holding a lantern high while a vast serpent's shadow coils in the dark water below.",
+      "summary": "A young bridge keeper must decide whether to let the river's ancient serpent pass beneath her crossing or break the pact that has kept her village safe for a hundred years.",
+      "genres": [
+        "myth and legend"
+      ],
+      "ageTier": "13+"
+    },
+    "the-keeper-of-the-small-light": {
+      "title": "The Keeper of the Small Light",
+      "cover": "/covers/the-keeper-of-the-small-light.jpg",
+      "coverAlt": "A girl holds a tiny glowing jar in her cupped hands while a shadowy forest looms behind her and small animal friends peek from the undergrowth.",
+      "summary": "When the lamp that keeps the dark at bay burns out, a girl must gather courage and a few unlikely friends to relight it before the shadows swallow her village.",
+      "genres": [
+        "fantasy",
+        "adventure"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-lamp-in-the-hill": {
+      "title": "The Lamp in the Hill",
+      "cover": "/covers/placeholder.jpg",
+      "coverAlt": "A boy kneeling in a hillside cave, holding a small brass lamp that casts a warm glow over painted walls.",
+      "summary": "When a boy discovers a lamp that stores the town's memories, he must decide whether to keep the light burning or let the past go dark.",
+      "genres": [
+        "everyday magic"
+      ],
+      "ageTier": "13+"
+    },
+    "the-lantern-and-the-lost-dog": {
+      "title": "The Lantern and the Lost Dog",
+      "cover": "/covers/the-lantern-and-the-lost-dog.jpg",
+      "coverAlt": "A boy and a girl hold a jar lantern in a dark backyard, its warm light falling on a small dog wagging its tail near a hedge.",
+      "summary": "When Milo's dog goes missing on the first night of summer, he and his friend Priya search the dark neighborhood with a homemade lantern, learning that courage can be quiet and friendship can glow.",
+      "genres": [
+        "slice of life"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-lantern-at-worlds-end": {
+      "title": "The Lantern at World's End",
+      "cover": "/covers/placeholder.jpg",
+      "coverAlt": "A girl in a patched coat stands on a black cliff at night, holding a small lantern whose light falls across a dark sea toward a faint glow beneath the waves.",
+      "summary": "Mara leaves her island home to find the star that fell into the sea, guided by a lantern that burns without oil and a stranger who knows more than he says.",
+      "genres": [
+        "quest",
+        "fantasy"
+      ],
+      "ageTier": "13+"
+    },
+    "the-lantern-bearers-race": {
+      "title": "The Lantern Bearer's Race",
+      "cover": "/covers/the-lantern-bearers-race.jpg",
+      "coverAlt": "A young girl holding a glowing lantern runs along a dark mountain path, stars wheeling above her, while far below a village waits in blue shadow.",
+      "summary": "When the sun fails to rise over the village of Everdawn, a quiet girl named Elara must race through the night with a borrowed lantern to wake the sleeping sun before dawn is lost forever.",
+      "genres": [
+        "myth and legend",
+        "quest"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-lantern-keepers-daughter": {
+      "title": "The Lantern Keeper's Daughter",
+      "cover": "/covers/the-lantern-keepers-daughter.jpg",
+      "coverAlt": "A girl holding a glowing lantern on a dark mountain path, looking up at a starry sky where the moon should be.",
+      "summary": "When the moon fails to rise over the village of Oaksend, a girl who has always feared the dark must carry her father's last lantern up the mountain to wake it again.",
+      "genres": [
+        "fantasy",
+        "quest"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-lighthouse-that-blinked-back": {
+      "title": "The Lighthouse That Blinked Back",
+      "cover": "/covers/the-lighthouse-that-blinked-back.jpg",
+      "coverAlt": "A girl and a boy climb a spiral staircase inside a lighthouse as strange glowing eyes peer through the window behind them.",
+      "summary": "When a storm knocks out the lighthouse on Gull Point, twelve-year-old Mara and her friend Leo must relight it before a ship is lost—but something in the fog seems to be watching them.",
+      "genres": [
+        "spooky",
+        "adventure"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-lights-on-juniper-street": {
+      "title": "The Lights on Juniper Street",
+      "cover": "/covers/the-lights-on-juniper-street.jpg",
+      "coverAlt": "A girl in a red jumper holds a paper lantern on a dark suburban street while neighbours step out of their houses with candles and torches.",
+      "summary": "When a power cut leaves Juniper Street dark, Maya and her neighbour Mr. Okafor light lanterns and discover that the whole street has been waiting for an excuse to gather.",
+      "genres": [
+        "slice of life"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-locked-room-above-the-bakery": {
+      "title": "The Locked Room Above the Bakery",
+      "cover": "/covers/placeholder.jpg",
+      "coverAlt": "A girl in a flour-dusted apron holds a lantern at the top of a narrow staircase, facing a door sealed with old tape and a rusted padlock.",
+      "summary": "When a sealed room above her family's bakery is opened after forty years, thirteen-year-old Nell finds a ledger of debts and a name that doesn't belong. The quiet street hides more than flour dust.",
+      "genres": [
+        "mystery"
+      ],
+      "ageTier": "13+"
+    },
+    "the-long-way-home": {
+      "title": "The Long Way Home",
+      "cover": "/covers/the-long-way-home.jpg",
+      "coverAlt": "Two teenage sisters sit on the tailgate of a loaded pickup truck at dusk, a farmhouse silhouetted behind them and a map spread across their laps.",
+      "summary": "After their mother's death, two sisters must sell the family farm and drive across the country with a trailer full of memories, learning what home really means along the way.",
+      "genres": [
+        "family",
+        "slice of life"
+      ],
+      "ageTier": "13+"
+    },
+    "the-map-of-courage": {
+      "title": "The Map of Courage",
+      "cover": "/covers/the-map-of-courage.jpg",
+      "coverAlt": "Juno drawing a map with her grandmother watching over her shoulder",
+      "series": "maps-for-lost-things",
+      "seriesOrder": 1,
+      "summary": "Juno helps her grandmother map a boy's lost courage before a big race. Along the way, she learns about the true power of mapping and helping others.",
+      "genres": [
+        "everyday magic",
+        "family"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-map-of-night": {
+      "title": "The Map of Night",
+      "cover": "/covers/the-map-of-night.jpg",
+      "coverAlt": "A girl stands on a dark hill at night looking up at a deep blue sky, where thin lines join the stars into the shape of a house above a small lit cottage.",
+      "series": "maps-for-lost-things",
+      "seriesOrder": 2,
+      "summary": "When a girl named Elara comes to the shop asking for her lost home, Juno draws a map that leads not to a place, but to a night sky full of wonder.",
+      "genres": [
+        "everyday magic",
+        "quest"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-map-of-the-missing-note": {
+      "title": "The Map of the Missing Note",
+      "cover": "/covers/the-map-of-the-missing-note.jpg",
+      "coverAlt": "A girl in a brown coat and red skirt stands in a wooden doorway holding a rolled paper scroll, a white dog with a red collar sitting beside her, two lamps glowing against a foggy blue evening street.",
+      "series": "maps-for-lost-things",
+      "seriesOrder": 3,
+      "summary": "When a dog walker loses the sound of a name, Juno must draw a map that leads not to a place but to a friendship she never knew was missing.",
+      "genres": [
+        "everyday magic",
+        "mystery"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-millers-debt": {
+      "title": "The Miller's Debt",
+      "cover": "/covers/the-millers-debt.jpg",
+      "coverAlt": "A young man stands at the edge of a moonlit millpond, his shadow stretching long and thin toward the dark water while the mill wheel looms behind him.",
+      "summary": "A miller's son inherits a debt owed to the river, and must decide whether to pay it with his own shadow or find another way before the water rises.",
+      "genres": [
+        "folk tale"
+      ],
+      "ageTier": "13+"
+    },
+    "the-night-bell-of-harrow-lane": {
+      "title": "The Night Bell of Harrow Lane",
+      "cover": "/covers/placeholder.jpg",
+      "coverAlt": "A girl in a hooded coat holds a lantern high toward the dark windows of a narrow brick house, while a boy beside her points at a faint glow in the attic.",
+      "summary": "When thirteen-year-old Wren hears a bell ringing from the empty house on Harrow Lane at midnight, she and her best friend Sam set out to find who is ringing it — and why the whole street pretends not to hear.",
+      "genres": [
+        "mystery",
+        "spooky"
+      ],
+      "ageTier": "13+"
+    },
+    "the-night-light": {
+      "title": "The Night Light",
+      "cover": "/covers/the-night-light.jpg",
+      "coverAlt": "A girl holding a jar of fireflies up to a dark window, her little brother watching from his bed with wide eyes.",
+      "summary": "When the power goes out on the hottest night of summer, Maya must find a way to light her little brother's room before his fear of the dark takes over.",
+      "genres": [
+        "slice of life"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-night-market-lantern": {
+      "title": "The Night Market Lantern",
+      "cover": "/covers/the-night-market-lantern.jpg",
+      "coverAlt": "A girl in a red jacket reaches for a glowing paper lantern as it drifts above a crowded night market, her grandmother watching from a stall behind her.",
+      "summary": "Maya helps her grandmother run a lantern stall at the night market, but when the wind snatches their last lantern, she must chase it through the crowd before the market closes.",
+      "genres": [
+        "slice of life"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-night-the-fuse-blew": {
+      "title": "The Night the Fuse Blew",
+      "cover": "/covers/placeholder.jpg",
+      "coverAlt": "A teenage girl holds a flashlight while her younger brother wraps a small child in blankets in a dark, cold living room.",
+      "summary": "When the power fails on the coldest night of the year, a girl and her estranged older brother must keep their little sister warm until dawn — and finally talk about the thing that split their family apart.",
+      "genres": [
+        "family"
+      ],
+      "ageTier": "13+"
+    },
+    "the-night-the-lights-stayed-on": {
+      "title": "The Night the Lights Stayed On",
+      "cover": "/covers/the-night-the-lights-stayed-on.jpg",
+      "coverAlt": "A girl holds a jar with a small candle inside, standing on a dark porch while warm lights glow in the windows of neighboring houses.",
+      "summary": "When the power goes out on her street, Maya discovers that the dark is not as empty as she feared. A quiet story about neighbors, candles, and finding courage in small things.",
+      "genres": [
+        "slice of life"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-night-the-power-went-out": {
+      "title": "The Night the Power Went Out",
+      "cover": "/covers/the-night-the-power-went-out.jpg",
+      "coverAlt": "A girl and her little brother sit by a candle on a kitchen floor, shadows dancing on the walls as rain streaks the window behind them.",
+      "summary": "When a storm knocks out the power, Maya and her little brother must find a way to be brave in the dark. A warm slice-of-life story about family, courage, and the quiet wonder of a candlelit night.",
+      "genres": [
+        "slice of life"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-salt-road": {
+      "title": "The Salt Road",
+      "cover": "/covers/the-salt-road.jpg",
+      "coverAlt": "A girl leading a loaded mule across a shimmering flooded salt flat at dusk, a small boy clinging to the mule's harness behind her, the drowned road visible as pale stones beneath the shallow water.",
+      "summary": "When the sea swallows her village's only road, fourteen-year-old Ines must guide a stubborn mule and a frightened younger boy across the flooded salt flats before the tide turns again.",
+      "genres": [
+        "adventure"
+      ],
+      "ageTier": "13+"
+    },
+    "the-salt-road-north": {
+      "title": "The Salt Road North",
+      "cover": "/covers/the-salt-road-north.jpg",
+      "coverAlt": "A girl in a patched coat stands on a cliff path at dusk, holding a folded map, while fog rolls across the sea below and a single lantern glows in the distance.",
+      "summary": "When her father's boat fails to return, fourteen-year-old Enna takes his map and walks the salt road north through fog and strangers, determined to bring him home.",
+      "genres": [
+        "adventure"
+      ],
+      "ageTier": "13+"
+    },
+    "the-second-night-a-light-for-the-lost": {
+      "title": "The Second Night: A Light for the Lost",
+      "cover": "/covers/the-second-night-a-light-for-the-lost.jpg",
+      "coverAlt": "An illustration of two girls standing at the top of a lighthouse tower at night, one holding a lantern, the other pointing out to sea where a faint light flickers in the fog.",
+      "series": "the-lantern-keepers",
+      "seriesOrder": 2,
+      "summary": "When a fishing boat goes missing in the fog, Nell and Tessa must keep the harbour light burning and find a way to guide it home, testing their courage and their trust in each other.",
+      "genres": [
+        "adventure",
+        "family"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-second-question": {
+      "title": "The Second Question",
+      "cover": "/covers/the-second-question.jpg",
+      "coverAlt": "A boy sits at a desk by a window, pen in hand, looking at an open ledger. Outside, a hill rises into a starry night sky.",
+      "series": "the-weather-ledger",
+      "seriesOrder": 2,
+      "summary": "When a new line appears in the weather ledger, Otis writes back his own question. The answer arrives, but it is not the one he wanted.",
+      "genres": [
+        "everyday magic",
+        "family"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-star-in-the-net": {
+      "title": "The Star in the Net",
+      "cover": "/covers/the-star-in-the-net.jpg",
+      "coverAlt": "A girl in a small wooden boat lifts a glowing net from dark water, a bright star tangled inside, while the night sky reflects all around her.",
+      "summary": "A young fisher's net catches a fallen star, and the whole village comes to see it. But when the star begs to go home, only one person listens.",
+      "genres": [
+        "myth and legend",
+        "fantasy"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-star-in-the-well": {
+      "title": "The Star in the Well",
+      "cover": "/covers/the-star-in-the-well.jpg",
+      "coverAlt": "A girl with a lantern climbs down a mossy stone well, looking up at a tiny bright star resting on the water below.",
+      "summary": "When a star falls into the village well, a girl named Nia must climb down into the dark to bring back its light before the village lanterns go out forever.",
+      "genres": [
+        "fantasy",
+        "quest"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-star-that-fell-to-the-sea": {
+      "title": "The Star That Fell to the Sea",
+      "cover": "/covers/the-star-that-fell-to-the-sea.jpg",
+      "coverAlt": "A girl in a small boat holds a glowing star in her cupped hands while dark water ripples around her.",
+      "summary": "When a small star falls into the bay, a fisher's daughter must find the courage to carry it home before the tide takes it back.",
+      "genres": [
+        "myth and legend"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-very-bad-good-deed": {
+      "title": "The Very Bad Good Deed",
+      "cover": "/covers/the-very-bad-good-deed.jpg",
+      "coverAlt": "A boy in a kitchen holds a dripping mop while a small girl in a paper crown points at a cat stuck to the ceiling by its tail.",
+      "summary": "When Milo's little sister announces she can grant wishes, he thinks it's a game. Then every wish starts coming true, and Milo has to clean up the mess before their mum gets home.",
+      "genres": [
+        "funny"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-very-loud-silence": {
+      "title": "The Very Loud Silence",
+      "cover": "/covers/the-very-loud-silence.jpg",
+      "coverAlt": "A girl in pajamas holds a flashlight under her chin while her little brother peeks from behind a sofa cushion, a small brass bell glinting on the floor between them.",
+      "summary": "Mira's little brother Bo has one job: ring the bell at bedtime. Tonight the bell is gone, and Mira must track it down before their whole night routine falls apart.",
+      "genres": [
+        "funny",
+        "family"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-very-polite-ghost": {
+      "title": "The Very Polite Ghost",
+      "cover": "/covers/the-very-polite-ghost.jpg",
+      "coverAlt": "A boy in striped pyjamas sits up in bed, staring at a transparent elderly ghost who is carefully folding a pair of socks on the dresser, moonlight streaming through the window.",
+      "summary": "When a ghost moves into Leo's bedroom and starts rearranging his socks, Leo tries everything to make it leave. But the ghost is not haunting him—it is waiting for something, and Leo is the only one who can help.",
+      "genres": [
+        "funny",
+        "spooky"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-weaver-of-the-night-sky": {
+      "title": "The Weaver of the Night Sky",
+      "cover": "/covers/the-weaver-of-the-night-sky.jpg",
+      "coverAlt": "A young girl on a hilltop at night, holding a glowing thread that rises into the dark sky, where a few new stars are beginning to shine.",
+      "summary": "In a village where the stars have gone dark, a quiet girl discovers she can weave new ones—but each star costs her a memory of someone she loves.",
+      "genres": [
+        "myth and legend",
+        "fantasy"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-whispering-coat": {
+      "title": "The Whispering Coat",
+      "cover": "/covers/the-whispering-coat.jpg",
+      "coverAlt": "A girl in a dark church vestibule holds a long grey coat that seems to ripple with a faint, moonlit whisper.",
+      "summary": "When Nell finds a strange coat in the church lost-and-found, it starts whispering in the night, and she must find its owner before the whispers become a storm.",
+      "genres": [
+        "spooky"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-whispering-staircase": {
+      "title": "The Whispering Staircase",
+      "cover": "/covers/the-whispering-staircase.jpg",
+      "coverAlt": "A girl and a boy standing at the bottom of a dark wooden staircase, a faint glow coming from the top step, shadows stretching long across the hallway floor.",
+      "summary": "When Maya moves into an old house, she discovers a staircase that whispers secrets at night. With her new friend Leo, she must uncover the truth behind the whispers before they drive her family away.",
+      "genres": [
+        "spooky",
+        "mystery"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-woman-who-held-the-door": {
+      "title": "The Woman Who Held the Door",
+      "cover": "/covers/placeholder.jpg",
+      "coverAlt": "A weathered woman in a grey cloak stands with both hands pressed against a tall iron door in a stone wall, her lantern casting long shadows across a barren moor under a starless sky.",
+      "summary": "For three hundred years, Maren has kept a door shut at the edge of the world. Tonight, someone is on the other side, and the price of holding it closed may be higher than she can pay.",
+      "genres": [
+        "myth and legend",
+        "horror"
+      ],
+      "ageTier": "13+"
+    }
+  },
+  "classics": {
+    "a-mad-tea-party": {
+      "title": "The Tea Party That Would Not End",
+      "cover": "/covers/a-mad-tea-party.jpg",
+      "coverAlt": "A long table under a tree set with mismatched cups, a girl standing at the edge while three strange figures look up at her, one holding a pocket watch.",
+      "summary": "A girl wanders into a tea party where nobody moves up, the watch tells only the day, and the table itself keeps moving. The longer she stays, the less the rules make sense, and the harder it is to leave.",
+      "genres": [
+        "fantasy",
+        "funny"
+      ],
+      "ageTier": "13+"
+    },
+    "aladdin-and-the-wonderful-lamp": {
+      "title": "Aladdin and the Wonderful Lamp",
+      "cover": "/covers/aladdin-and-the-wonderful-lamp.jpg",
+      "coverAlt": "A boy in a dark cave holds up a small brass lamp, its light showing a narrow stone stair behind him.",
+      "summary": "A poor boy is led to a hidden cave and finds an old lamp that changes his fortune. When a stranger steals it back, he must follow across the world to bring home what he loves.",
+      "genres": [
+        "folk tale",
+        "fantasy"
+      ],
+      "ageTier": "8-12"
+    },
+    "ali-baba-and-the-forty-thieves": {
+      "title": "Morgiana and the Forty Thieves",
+      "cover": "/covers/ali-baba-and-the-forty-thieves.jpg",
+      "coverAlt": "A young woman in simple clothes stands in a moonlit courtyard, counting the oil jars lined against the wall, a small lamp in her hand.",
+      "summary": "Ali Baba discovers a cave of treasure and a secret word. When thieves come looking for him, it is his quick-thinking servant Morgiana who saves the whole household.",
+      "genres": [
+        "folk tale",
+        "adventure"
+      ],
+      "ageTier": "8-12"
+    },
+    "beauty-and-the-beast": {
+      "title": "The Rose and the Beast",
+      "cover": "/covers/beauty-and-the-beast.jpg",
+      "coverAlt": "An illustration of a young woman in a candlelit hall holding a single red rose, while a shadowed, gentle-eyed beast watches from the edge of the light.",
+      "summary": "A merchant's daughter goes to live in a strange castle to save her father. Each night the Beast asks the same quiet question, and each night she must decide what her answer will be.",
+      "genres": [
+        "folk tale",
+        "fantasy"
+      ],
+      "ageTier": "8-12"
+    },
+    "black-beauty": {
+      "title": "Black Beauty's Quiet Journey",
+      "cover": "/covers/black-beauty.jpg",
+      "coverAlt": "A black horse stands in a sunlit meadow beside a stream, his mother grazing nearby and a boy resting a hand on his neck.",
+      "summary": "A calm horse remembers his green meadow, the kind grooms and hard cab stands, and the people he meets by the touch of their hands. He holds no grudge, and at last finds a field to call home.",
+      "genres": [
+        "animal story",
+        "slice of life"
+      ],
+      "ageTier": "8-12"
+    },
+    "cinderella": {
+      "title": "The Hazel Tree and the Golden Slipper",
+      "cover": "/covers/cinderella.jpg",
+      "coverAlt": "A girl in a simple dress kneels by a small hazel tree on a grassy grave, a white bird perched on a low branch above her, with a castle glowing in the distance.",
+      "summary": "A girl is left with a hard stepmother and two unkind stepsisters. With help from a hazel tree on her mother's grave, she goes to the king's festival three nights, and the last night changes everything.",
+      "genres": [
+        "folk tale",
+        "everyday magic"
+      ],
+      "ageTier": "8-12"
+    },
+    "east-of-the-sun-and-west-of-the-moon": {
+      "title": "East of the Sun, West of the Moon",
+      "cover": "/covers/east-of-the-sun-and-west-of-the-moon.jpg",
+      "coverAlt": "A girl in a heavy cloak stands on a bare ridge at dusk, facing a pale castle that floats low on the horizon beyond a frozen sea.",
+      "summary": "A white bear carries a woodcutter's daughter to a silent castle where a stranger sleeps beside her by dark. When she looks at his face by candlelight, she loses him to a troll princess and must walk to the ends of the wind to win him back.",
+      "genres": [
+        "folk tale",
+        "fantasy"
+      ],
+      "ageTier": "13+"
+    },
+    "hansel-and-gretel": {
+      "title": "The Breadcrumb Trail",
+      "cover": "/covers/hansel-and-gretel.jpg",
+      "coverAlt": "An illustration of two children standing before a small cottage with walls of golden bread and a roof of sugar, moonlight falling through dark pine trees behind them.",
+      "summary": "When a hungry family can no longer feed two children, Hansel and Gretel leave a trail of breadcrumbs through the night forest. A house made of sweets waits at the end of the path, and Gretel must find the courage to act.",
+      "genres": [
+        "folk tale",
+        "family"
+      ],
+      "ageTier": "8-12"
+    },
+    "little-red-riding-hood": {
+      "title": "The Red Hood and the Wolf",
+      "cover": "/covers/little-red-riding-hood.jpg",
+      "coverAlt": "A girl in a red hood stands on a forest path, holding a basket, while a grey wolf watches from behind a tall tree.",
+      "summary": "A girl in a red hood is sent through the wood to her grandmother's house, where a wolf waits with clever tricks and sharp teeth. Help arrives from an unexpected place, and she learns to listen for what a wolf sounds like.",
+      "genres": [
+        "folk tale",
+        "adventure"
+      ],
+      "ageTier": "8-12"
+    },
+    "mowglis-brothers": {
+      "title": "The Boy the Pack Kept",
+      "cover": "/covers/mowglis-brothers.jpg",
+      "coverAlt": "A dark panther and a brown bear sit at the edge of a moonlit circle of wolves, a small boy asleep between them.",
+      "summary": "A human child is taken in by a wolf pack, raised under the Law of the jungle, and must one day decide where he truly belongs.",
+      "genres": [
+        "animal story",
+        "adventure"
+      ],
+      "ageTier": "13+"
+    },
+    "puss-in-boots": {
+      "title": "The Cat Who Wore Boots",
+      "cover": "/covers/puss-in-boots.jpg",
+      "coverAlt": "A lean tabby cat in tall leather boots stands on a dusty road at dusk, one paw raised, looking back over its shoulder at a bewildered young man carrying a sack.",
+      "summary": "When a miller dies, his youngest son inherits only a cat. But this cat has plans, a pair of boots, and a talent for making people believe things that were never true.",
+      "genres": [
+        "folk tale",
+        "funny"
+      ],
+      "ageTier": "13+"
+    },
+    "rapunzel": {
+      "title": "The Girl in the Tower",
+      "cover": "/covers/rapunzel.jpg",
+      "coverAlt": "A tall stone tower with a single window, a long golden braid hanging down, and a young woman leaning out under a wide night sky.",
+      "summary": "A woman's craving for a neighbour's garden plant leads to a daughter locked in a tower, a prince who climbs her hair, and a long separation healed by tears.",
+      "genres": [
+        "folk tale",
+        "fantasy"
+      ],
+      "ageTier": "8-12"
+    },
+    "rumpelstiltskin": {
+      "title": "The Miller's Daughter and the Little Man",
+      "cover": "/covers/rumpelstiltskin.jpg",
+      "coverAlt": "A young woman sits at a spinning wheel in a moonlit room filled with straw, while a tiny man watches from the shadows.",
+      "summary": "A miller's boast traps his daughter in a room of straw, and a strange little man offers help for a price. When he returns for her firstborn, she must guess his name to keep her child.",
+      "genres": [
+        "folk tale",
+        "fantasy"
+      ],
+      "ageTier": "8-12"
+    },
+    "sleeping-beauty": {
+      "title": "The Sleeping Castle",
+      "cover": "/covers/sleeping-beauty.jpg",
+      "coverAlt": "A princess in a simple dress reaches toward an old wooden spindle in a stone tower room, her face curious, while a pale old woman watches from the shadows.",
+      "summary": "A king and queen long for a child, but a forgotten guest at the christening lays a curse on their baby daughter. Years later, a princess finds a hidden tower and a spindle that changes everything.",
+      "genres": [
+        "folk tale",
+        "fantasy"
+      ],
+      "ageTier": "8-12"
+    },
+    "snow-white": {
+      "title": "Snow White and the Seven Dwarfs",
+      "cover": "/covers/snow-white.jpg",
+      "coverAlt": "A young girl with dark hair sits on the floor of a small forest cottage, surrounded by seven small bearded men who listen as she speaks, a wooden table and tiny chairs behind them.",
+      "summary": "A queen's mirror tells her a young girl is fairest, so the girl flees to the forest and finds a home with seven dwarfs. Three visits from the queen test the girl's courage and the dwarfs' care.",
+      "genres": [
+        "folk tale",
+        "fantasy"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-bremen-town-musicians": {
+      "title": "The Four Old Friends",
+      "cover": "/covers/the-bremen-town-musicians.jpg",
+      "coverAlt": "An illustration of a donkey, dog, cat, and rooster stacked on each other's backs, silhouetted against a moonlit window, with a warm glow from inside the house.",
+      "summary": "Four ageing animals, too old to work, run away together to become musicians. When they find a house full of robbers, they must use their wits and their friendship to find a home.",
+      "genres": [
+        "folk tale",
+        "animal story"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-christmas-breakfast": {
+      "title": "The Christmas Breakfast",
+      "cover": "/covers/the-christmas-breakfast.jpg",
+      "coverAlt": "Four sisters in wool coats carry baskets of bread and jugs of milk through a frosty lane at dawn, their breath visible in the cold air.",
+      "summary": "Four sisters give up their Christmas breakfast to a hungry family down the lane, and find that what they lose comes back to them in a way none of them expected.",
+      "genres": [
+        "family",
+        "slice of life"
+      ],
+      "ageTier": "13+"
+    },
+    "the-emperors-new-clothes": {
+      "title": "The Emperor's Empty Coat",
+      "cover": "/covers/the-emperors-new-clothes.jpg",
+      "coverAlt": "An illustration of a proud emperor walking through a crowded street in his underclothes, chin high, while a small child in the front row points and laughs and the crowd around them begins to smile.",
+      "summary": "An emperor who loves only fine clothes is fooled by two strangers who promise a magical cloth. The whole court pretends to admire it, until one small voice says what everyone else is afraid to say.",
+      "genres": [
+        "folk tale",
+        "funny"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-fisherman-and-his-wife": {
+      "title": "The Fisherman and His Wife",
+      "cover": "/covers/the-fisherman-and-his-wife.jpg",
+      "coverAlt": "A fisherman in a small boat on a darkening sea, looking down at a shimmering flounder, while a storm gathers on the horizon.",
+      "summary": "A poor fisherman spares a talking flounder and his wife's wishes grow, each granted as the sea turns darker. A quiet tale of home, courage, and the price of wanting more.",
+      "genres": [
+        "folk tale",
+        "family"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-fox-and-the-cat": {
+      "title": "The Fox, the Cat, and the Boy Who Lied",
+      "cover": "/covers/the-fox-and-the-cat.jpg",
+      "coverAlt": "A boy with a long nose sits on a dark road beside a limping fox and a silent cat, a single gold coin glinting in his hand.",
+      "summary": "A wooden boy with five gold coins meets two clever strangers who promise him a fortune. All he has to do is bury his money and wait.",
+      "genres": [
+        "folk tale",
+        "funny"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-frog-prince": {
+      "title": "The Promise at the Well",
+      "cover": "/covers/the-frog-prince.jpg",
+      "coverAlt": "A young princess kneels at the edge of a stone well, her golden ball resting on the mossy rim, while a small green frog watches from the water below.",
+      "summary": "A princess drops her golden ball into a well and promises a frog anything to get it back. But when he comes to collect, her father insists she keep her word.",
+      "genres": [
+        "folk tale",
+        "everyday magic"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-garden-behind-the-wall": {
+      "title": "The Door in the Wall",
+      "cover": "/covers/the-garden-behind-the-wall.jpg",
+      "coverAlt": "A girl in a dark coat kneels beside an ivy-covered stone wall, pushing aside leaves to reveal a small rusted keyhole, while a robin watches from a bare branch above.",
+      "summary": "A sour, lonely girl is sent to live in a cold house on the moor, where a robin leads her to a buried key and a door that has been hidden for ten years.",
+      "genres": [
+        "mystery",
+        "everyday magic"
+      ],
+      "ageTier": "13+"
+    },
+    "the-red-petticoats": {
+      "title": "The Red Petticoats",
+      "cover": "/covers/the-red-petticoats.jpg",
+      "coverAlt": "Three children stand on a grassy embankment waving red petticoats tied to sticks at a distant steam train, with a pile of fallen rock blocking the tracks ahead.",
+      "summary": "Three children spot a rockfall blocking the railway line, but with the telegraph wires down and the express due, only their quick thinking and their red petticoats can stop the train in time.",
+      "genres": [
+        "adventure",
+        "family"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-river-bank": {
+      "title": "The River Bank",
+      "cover": "/covers/the-river-bank.jpg",
+      "coverAlt": "A small mole and a water rat sit in a wooden rowboat on a wide river at dusk, the mole holding a pair of oars while the rat points toward a lantern-lit doorway set into the grassy bank.",
+      "summary": "A mole abandons his spring cleaning for a day on the river with a water rat, but on the way home the scent of his own neglected house calls him back, and friendship answers without being asked.",
+      "genres": [
+        "animal story",
+        "slice of life"
+      ],
+      "ageTier": "13+"
+    },
+    "the-road-to-the-emerald-city": {
+      "title": "The Long Yellow Road",
+      "cover": "/covers/the-road-to-the-emerald-city.jpg",
+      "coverAlt": "A girl in silver shoes walks a yellow brick road between wide fields while a straw-stuffed man and a bright tin man step along beside her under a green evening sky.",
+      "summary": "Carried off by a whirlwind, a girl in silver shoes walks a yellow brick road to ask a great wizard for a way home. Along the way she gains two friends who are kinder than anyone they meet.",
+      "genres": [
+        "fantasy",
+        "quest"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-snow-queen": {
+      "title": "The Snow Queen",
+      "cover": "/covers/the-snow-queen.jpg",
+      "coverAlt": "Gerda, a small girl in a red coat, stands before the tall gates of an ice palace under a starry night sky, her breath visible in the cold air.",
+      "summary": "When a splinter of enchanted glass lodges in Kai's eye and heart, he grows cold and is taken by the Snow Queen. His friend Gerda sets out to find him, refusing to give up.",
+      "genres": [
+        "folk tale",
+        "quest"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-three-spinning-women": {
+      "title": "The Three Spinning Women",
+      "cover": "/covers/the-three-spinning-women.jpg",
+      "coverAlt": "Three unusual women sit at a spinning wheel in a moonlit room, one with a broad flat foot, one with a huge lower lip, and one with a broad thumb, while a young girl watches with wide eyes.",
+      "summary": "A girl who hates spinning is helped by three strange women with odd feet, lips, and thumbs. They spin her flax on one condition: she must invite them to her wedding.",
+      "genres": [
+        "folk tale",
+        "everyday magic"
+      ],
+      "ageTier": "8-12"
+    },
+    "the-ugly-duckling": {
+      "title": "The Grey Bird",
+      "cover": "/covers/the-ugly-duckling.jpg",
+      "coverAlt": "A grey bird stands alone at the edge of a frozen pond in early spring, watching three white swans glide across the dark water.",
+      "summary": "A grey bird who does not fit in the barnyard runs away into a hard winter. When spring comes, he finds a pond where he might belong at last.",
+      "genres": [
+        "folk tale",
+        "animal story"
+      ],
+      "ageTier": "8-12"
+    },
+    "three-fables-of-aesop": {
+      "title": "Three Fables for a Quiet Room",
+      "cover": "/covers/three-fables-of-aesop.jpg",
+      "coverAlt": "A crow perched on a branch with a piece of cheese in its beak, a fox sitting below, and a tortoise and hare watching from the edge of a moonlit field.",
+      "summary": "A crow, a tortoise, and a mouse each meet a creature who changes their luck. Three ancient fables told as one bedtime story, where the moral is the last thing said.",
+      "genres": [
+        "folk tale",
+        "animal story"
+      ],
+      "ageTier": "13+"
+    },
+    "thumbelina": {
+      "title": "The Girl in the Walnut Shell",
+      "cover": "/covers/thumbelina.jpg",
+      "coverAlt": "A tiny girl in a dress of petals stands on a lily pad, looking up at a swallow with a broken wing resting on the bank.",
+      "summary": "A tiny girl no bigger than a thumb is carried off by a toad, befriends a swallow, and finds where she truly belongs.",
+      "genres": [
+        "folk tale",
+        "fantasy"
+      ],
+      "ageTier": "8-12"
+    }
+  }
+}

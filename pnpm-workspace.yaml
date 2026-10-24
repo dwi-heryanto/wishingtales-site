@@ -1,0 +1,7 @@
+packages:
+  - site
+
+# pnpm 10 blocks dependency build scripts by default. sharp is the one dependency in this
+# snapshot with a native step; the cover checks read images through it.
+onlyBuiltDependencies:
+  - sharp
