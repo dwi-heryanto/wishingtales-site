@@ -1,0 +1,560 @@
+{
+  "version": 1,
+  "settings": {
+    "model": "melotts",
+    "tempo": 0.94,
+    "format": "storyteller-v1"
+  },
+  "stories": {
+    "the-girl-who-held-the-wind": {
+      "title": "Wren and the Jar of Sleeping Wind",
+      "ageTier": "8-12",
+      "key": "audio/the-girl-who-held-the-wind.mp3",
+      "seconds": 481.99,
+      "bytes": 3856134,
+      "chars": 8250,
+      "textHash": "ba4551ff8a6bdd10",
+      "generatedAt": "2026-10-22T09:34:54.378Z"
+    },
+    "the-keeper-of-the-small-light": {
+      "title": "The Lamp Goes Out in the Village",
+      "ageTier": "8-12",
+      "key": "audio/the-keeper-of-the-small-light.mp3",
+      "seconds": 616.67,
+      "bytes": 4933633,
+      "chars": 10011,
+      "textHash": "63b9448a119133f8",
+      "generatedAt": "2026-10-22T09:41:27.728Z"
+    },
+    "the-night-market-lantern": {
+      "title": "Maya Chases the Runaway Market Lantern",
+      "ageTier": "8-12",
+      "key": "audio/the-night-market-lantern.mp3",
+      "seconds": 450.93,
+      "bytes": 3607657,
+      "chars": 7734,
+      "textHash": "377ae43950a83370",
+      "generatedAt": "2026-10-22T09:39:40.499Z"
+    },
+    "aladdin-and-the-wonderful-lamp": {
+      "title": "Aladdin and the Wonderful Lamp",
+      "ageTier": "8-12",
+      "key": "audio/aladdin-and-the-wonderful-lamp.mp3",
+      "seconds": 560.82,
+      "bytes": 4486834,
+      "chars": 9467,
+      "textHash": "f774e56f886468d4",
+      "generatedAt": "2026-10-22T09:46:16.856Z"
+    },
+    "the-cat-who-led-the-night": {
+      "title": "The Shy Cat Who Led the Harbor Cats Home",
+      "ageTier": "8-12",
+      "key": "audio/the-cat-who-led-the-night.mp3",
+      "seconds": 398.47,
+      "bytes": 3188027,
+      "chars": 6755,
+      "textHash": "20dd4c5c0d4792d0",
+      "generatedAt": "2026-10-22T10:14:11.872Z"
+    },
+    "the-cat-who-knew-the-way-home": {
+      "title": "The Storm-Blown Cat and the Starwise Elder",
+      "ageTier": "8-12",
+      "key": "audio/the-cat-who-knew-the-way-home.mp3",
+      "seconds": 514.51,
+      "bytes": 4116315,
+      "chars": 8444,
+      "textHash": "eaa9da7b04448ef8",
+      "generatedAt": "2026-10-22T10:22:19.073Z"
+    },
+    "the-lighthouse-that-blinked-back": {
+      "title": "Mara and the Lighthouse That Blinked Back",
+      "ageTier": "8-12",
+      "key": "audio/the-lighthouse-that-blinked-back.mp3",
+      "seconds": 509.23,
+      "bytes": 4074101,
+      "chars": 8411,
+      "textHash": "fc393e7e2db5da39",
+      "generatedAt": "2026-10-22T10:56:29.959Z"
+    },
+    "the-great-sock-rebellion": {
+      "title": "Milo and the Sock Pile Under the Bed",
+      "ageTier": "8-12",
+      "key": "audio/the-great-sock-rebellion.mp3",
+      "seconds": 563.04,
+      "bytes": 4504599,
+      "chars": 9175,
+      "textHash": "322aabd72a28cb96",
+      "generatedAt": "2026-10-22T11:39:35.509Z"
+    },
+    "the-whispering-staircase": {
+      "title": "Maya and the Staircase That Whispers",
+      "ageTier": "8-12",
+      "key": "audio/the-whispering-staircase.mp3",
+      "seconds": 538.93,
+      "bytes": 4311710,
+      "chars": 9010,
+      "textHash": "33b2deae449aa88d",
+      "generatedAt": "2026-10-22T12:05:27.283Z"
+    },
+    "the-night-the-lights-stayed-on": {
+      "title": "Maya and the Street That Stayed Lit",
+      "ageTier": "8-12",
+      "key": "audio/the-night-the-lights-stayed-on.mp3",
+      "seconds": 558.08,
+      "bytes": 4464893,
+      "chars": 9284,
+      "textHash": "d4cc7213ea9b4b1f",
+      "generatedAt": "2026-10-22T15:00:46.921Z"
+    },
+    "the-very-bad-good-deed": {
+      "title": "Milo's Sister Grants Wishes",
+      "ageTier": "8-12",
+      "key": "audio/the-very-bad-good-deed.mp3",
+      "seconds": 531.46,
+      "bytes": 4251942,
+      "chars": 8513,
+      "textHash": "534f1ff442b90f2c",
+      "generatedAt": "2026-10-23T10:06:46.144Z"
+    },
+    "the-weaver-of-the-night-sky": {
+      "title": "Each New Star Costs a Memory",
+      "ageTier": "8-12",
+      "key": "audio/the-weaver-of-the-night-sky.mp3",
+      "seconds": 699.35,
+      "bytes": 5595054,
+      "chars": 11517,
+      "textHash": "0cdf82557e6b2dd4",
+      "generatedAt": "2026-10-23T10:24:19.948Z"
+    },
+    "ali-baba-and-the-forty-thieves": {
+      "title": "Morgiana and the Forty Thieves",
+      "ageTier": "8-12",
+      "key": "audio/ali-baba-and-the-forty-thieves.mp3",
+      "seconds": 502.88,
+      "bytes": 4023319,
+      "chars": 8566,
+      "textHash": "6595f2e354e19581",
+      "generatedAt": "2026-10-23T11:27:48.657Z"
+    },
+    "beauty-and-the-beast": {
+      "title": "The Rose and the Beast",
+      "ageTier": "8-12",
+      "key": "audio/beauty-and-the-beast.mp3",
+      "seconds": 477.83,
+      "bytes": 3822907,
+      "chars": 8414,
+      "textHash": "567e5c1cdfaf7135",
+      "generatedAt": "2026-10-23T11:42:30.103Z"
+    },
+    "black-beauty": {
+      "title": "Black Beauty's Quiet Journey",
+      "ageTier": "8-12",
+      "key": "audio/black-beauty.mp3",
+      "seconds": 395.65,
+      "bytes": 3165457,
+      "chars": 7064,
+      "textHash": "b2d253b3e1815d87",
+      "generatedAt": "2026-10-23T11:46:22.115Z"
+    },
+    "the-case-of-the-vanishing-violin": {
+      "title": "Maya and the Vanishing Violin",
+      "ageTier": "8-12",
+      "key": "audio/the-case-of-the-vanishing-violin.mp3",
+      "seconds": 546.72,
+      "bytes": 4373986,
+      "chars": 9081,
+      "textHash": "6e82572bb42fd2d3",
+      "generatedAt": "2026-10-23T12:05:49.825Z"
+    },
+    "cinderella": {
+      "title": "The Hazel Tree and the Golden Slipper",
+      "ageTier": "8-12",
+      "key": "audio/cinderella.mp3",
+      "seconds": 450.32,
+      "bytes": 3602852,
+      "chars": 8261,
+      "textHash": "7dcf054f1d281dd0",
+      "generatedAt": "2026-10-23T15:11:46.257Z"
+    },
+    "hansel-and-gretel": {
+      "title": "The Breadcrumb Trail",
+      "ageTier": "8-12",
+      "key": "audio/hansel-and-gretel.mp3",
+      "seconds": 633.91,
+      "bytes": 5071560,
+      "chars": 10835,
+      "textHash": "37af80dcb8b023e0",
+      "generatedAt": "2026-10-23T15:22:37.795Z"
+    },
+    "little-red-riding-hood": {
+      "title": "The Red Hood and the Wolf",
+      "ageTier": "8-12",
+      "key": "audio/little-red-riding-hood.mp3",
+      "seconds": 483.32,
+      "bytes": 3866793,
+      "chars": 8422,
+      "textHash": "903f059bea105e81",
+      "generatedAt": "2026-10-23T16:05:45.523Z"
+    },
+    "the-star-that-fell-to-the-sea": {
+      "title": "The Star That Fell to the Sea",
+      "ageTier": "8-12",
+      "key": "audio/the-star-that-fell-to-the-sea.mp3",
+      "seconds": 437.32,
+      "bytes": 3498780,
+      "chars": 7399,
+      "textHash": "99f864a611da2075",
+      "generatedAt": "2026-10-23T20:04:24.231Z"
+    },
+    "rapunzel": {
+      "title": "The Girl in the Tower",
+      "ageTier": "8-12",
+      "key": "audio/rapunzel.mp3",
+      "seconds": 468.92,
+      "bytes": 3751645,
+      "chars": 8073,
+      "textHash": "8531e290a4200229",
+      "generatedAt": "2026-10-24T00:06:00.171Z"
+    },
+    "rumpelstiltskin": {
+      "title": "The Miller's Daughter and the Little Man",
+      "ageTier": "8-12",
+      "key": "audio/rumpelstiltskin.mp3",
+      "seconds": 506.28,
+      "bytes": 4050486,
+      "chars": 8552,
+      "textHash": "5813993d8eabf16e",
+      "generatedAt": "2026-10-24T07:12:04.427Z"
+    },
+    "sleeping-beauty": {
+      "title": "The Sleeping Castle",
+      "ageTier": "8-12",
+      "key": "audio/sleeping-beauty.mp3",
+      "seconds": 421.15,
+      "bytes": 3369421,
+      "chars": 7384,
+      "textHash": "d22e9a97b9ddefe9",
+      "generatedAt": "2026-10-24T09:10:57.531Z"
+    },
+    "snow-white": {
+      "title": "Snow White and the Seven Dwarfs",
+      "ageTier": "8-12",
+      "key": "audio/snow-white.mp3",
+      "seconds": 511.69,
+      "bytes": 4093745,
+      "chars": 9207,
+      "textHash": "d9d9e3a70b0c3d5b",
+      "generatedAt": "2026-10-24T10:09:20.608Z"
+    },
+    "the-emperors-new-clothes": {
+      "title": "The Emperor's Empty Coat",
+      "ageTier": "8-12",
+      "key": "audio/the-emperors-new-clothes.mp3",
+      "seconds": 498.36,
+      "bytes": 3987165,
+      "chars": 8666,
+      "textHash": "efea5162337a7725",
+      "generatedAt": "2026-10-24T10:55:53.404Z"
+    },
+    "the-fox-and-the-cat": {
+      "title": "The Fox, the Cat, and the Boy Who Lied",
+      "ageTier": "8-12",
+      "key": "audio/the-fox-and-the-cat.mp3",
+      "seconds": 543.43,
+      "bytes": 4347655,
+      "chars": 9322,
+      "textHash": "169d09972dd32a2e",
+      "generatedAt": "2026-10-24T11:52:07.360Z"
+    },
+    "the-lights-on-juniper-street": {
+      "title": "The Lights on Juniper Street",
+      "ageTier": "8-12",
+      "key": "audio/the-lights-on-juniper-street.mp3",
+      "seconds": 505.03,
+      "bytes": 4040455,
+      "chars": 8479,
+      "textHash": "cf25c675b02c7b4d",
+      "generatedAt": "2026-10-24T12:05:03.079Z"
+    },
+    "the-frog-prince": {
+      "title": "The Promise at the Well",
+      "ageTier": "8-12",
+      "key": "audio/the-frog-prince.mp3",
+      "seconds": 502.41,
+      "bytes": 4019557,
+      "chars": 8377,
+      "textHash": "5276271019673842",
+      "generatedAt": "2026-10-24T16:05:04.406Z"
+    },
+    "the-whispering-coat": {
+      "title": "The Whispering Coat",
+      "ageTier": "8-12",
+      "key": "audio/the-whispering-coat.mp3",
+      "seconds": 406.78,
+      "bytes": 3254483,
+      "chars": 6814,
+      "textHash": "6687ec8c3109048f",
+      "generatedAt": "2026-10-25T00:08:15.838Z"
+    },
+    "the-cat-who-kept-the-corner": {
+      "title": "The Cat Who Kept the Corner",
+      "ageTier": "8-12",
+      "key": "audio/the-cat-who-kept-the-corner.mp3",
+      "seconds": 447.14,
+      "bytes": 3577356,
+      "chars": 7573,
+      "textHash": "a766278318cdfce4",
+      "generatedAt": "2026-10-25T00:19:46.228Z"
+    },
+    "the-house-that-counts-at-night": {
+      "title": "Lila and the House That Counts",
+      "ageTier": "8-12",
+      "key": "audio/the-house-that-counts-at-night.mp3",
+      "seconds": 455.71,
+      "bytes": 3645901,
+      "chars": 7672,
+      "textHash": "ad440df58978980b",
+      "generatedAt": "2026-10-25T06:03:35.311Z"
+    },
+    "the-red-petticoats": {
+      "title": "The Red Petticoats",
+      "ageTier": "8-12",
+      "key": "audio/the-red-petticoats.mp3",
+      "seconds": 555.6,
+      "bytes": 4445039,
+      "chars": 9555,
+      "textHash": "3e7845a8282f14ba",
+      "generatedAt": "2026-10-25T06:08:19.526Z"
+    },
+    "the-road-to-the-emerald-city": {
+      "title": "The Long Yellow Road",
+      "ageTier": "8-12",
+      "key": "audio/the-road-to-the-emerald-city.mp3",
+      "seconds": 616.65,
+      "bytes": 4933425,
+      "chars": 10168,
+      "textHash": "e34c3d10b42699dc",
+      "generatedAt": "2026-10-25T06:15:23.340Z"
+    },
+    "the-star-in-the-net": {
+      "title": "The Star in the Net",
+      "ageTier": "8-12",
+      "key": "audio/the-star-in-the-net.mp3",
+      "seconds": 492.62,
+      "bytes": 3941190,
+      "chars": 8086,
+      "textHash": "0f96ad6c6be60b20",
+      "generatedAt": "2026-10-25T07:09:24.886Z"
+    },
+    "the-ugly-duckling": {
+      "title": "The Grey Bird",
+      "ageTier": "8-12",
+      "key": "audio/the-ugly-duckling.mp3",
+      "seconds": 574.98,
+      "bytes": 4600102,
+      "chars": 9763,
+      "textHash": "af7d9f88cd839254",
+      "generatedAt": "2026-10-25T08:07:44.961Z"
+    },
+    "thumbelina": {
+      "title": "The Girl in the Walnut Shell",
+      "ageTier": "8-12",
+      "key": "audio/thumbelina.mp3",
+      "seconds": 445.94,
+      "bytes": 3567743,
+      "chars": 8153,
+      "textHash": "7b460789c71031af",
+      "generatedAt": "2026-10-25T08:37:17.060Z"
+    },
+    "the-bell-in-the-fog": {
+      "title": "The Keeper's Daughter Rings the Fog Bell",
+      "ageTier": "8-12",
+      "key": "audio/the-bell-in-the-fog.mp3",
+      "seconds": 525.45,
+      "bytes": 4203877,
+      "chars": 8808,
+      "textHash": "bc94a95699b160b0",
+      "generatedAt": "2026-10-25T12:05:19.297Z"
+    },
+    "the-girl-who-kept-the-fire": {
+      "title": "Ember Carries the Last Coal",
+      "ageTier": "8-12",
+      "key": "audio/the-girl-who-kept-the-fire.mp3",
+      "seconds": 572.53,
+      "bytes": 4580458,
+      "chars": 9508,
+      "textHash": "8976825c91799e17",
+      "generatedAt": "2026-10-25T16:04:26.142Z"
+    },
+    "the-kettle-that-whistled-warnings": {
+      "title": "The Kettle That Whistled Warnings",
+      "ageTier": "8-12",
+      "key": "audio/the-kettle-that-whistled-warnings.mp3",
+      "seconds": 461.19,
+      "bytes": 3689787,
+      "chars": 7638,
+      "textHash": "a16cdac4d2a26e18",
+      "generatedAt": "2026-10-26T00:06:49.343Z"
+    },
+    "the-very-loud-goat-next-door": {
+      "title": "The Very Loud Goat Next Door",
+      "ageTier": "8-12",
+      "key": "audio/the-very-loud-goat-next-door.mp3",
+      "seconds": 522.37,
+      "bytes": 4179217,
+      "chars": 8914,
+      "textHash": "1d0d386cf78da63a",
+      "generatedAt": "2026-10-26T12:05:11.093Z"
+    },
+    "the-boy-who-traded-his-shadow": {
+      "title": "The Boy Who Traded His Shadow",
+      "ageTier": "8-12",
+      "key": "audio/the-boy-who-traded-his-shadow.mp3",
+      "seconds": 537.29,
+      "bytes": 4298545,
+      "chars": 9020,
+      "textHash": "fcaf1eb6683a6005",
+      "generatedAt": "2026-10-26T16:05:33.889Z"
+    },
+    "the-girl-who-stole-the-stars": {
+      "title": "The Girl Who Stole the Stars",
+      "ageTier": "8-12",
+      "key": "audio/the-girl-who-stole-the-stars.mp3",
+      "seconds": 587.81,
+      "bytes": 4702711,
+      "chars": 9508,
+      "textHash": "08edea721739d885",
+      "generatedAt": "2026-10-26T20:05:55.154Z"
+    },
+    "the-goat-who-ate-everything": {
+      "title": "The Goat Who Ate the Village Laundry",
+      "ageTier": "8-12",
+      "key": "audio/the-goat-who-ate-everything.mp3",
+      "seconds": 630.15,
+      "bytes": 5041467,
+      "chars": 10236,
+      "textHash": "a2731b51334fd339",
+      "generatedAt": "2026-10-26T22:04:33.364Z"
+    },
+    "the-bell-that-rang-backwards": {
+      "title": "The Bell That Rang Backwards",
+      "ageTier": "8-12",
+      "key": "audio/the-bell-that-rang-backwards.mp3",
+      "seconds": 512.71,
+      "bytes": 4101895,
+      "chars": 8828,
+      "textHash": "81dd57ebd21e37ad",
+      "generatedAt": "2026-10-27T00:07:56.239Z"
+    },
+    "the-baba-yaga": {
+      "title": "The Girl Who Fed the Gate",
+      "ageTier": "8-12",
+      "key": "audio/the-baba-yaga.mp3",
+      "seconds": 505.18,
+      "bytes": 4041709,
+      "chars": 8536,
+      "textHash": "a26eb980cfc52279",
+      "generatedAt": "2026-10-28T09:03:08.609Z"
+    },
+    "the-tongue-cut-sparrow": {
+      "title": "The Sparrow Who Shared a Bowl",
+      "ageTier": "8-12",
+      "key": "audio/the-tongue-cut-sparrow.mp3",
+      "seconds": 494.6,
+      "bytes": 3957072,
+      "chars": 8471,
+      "textHash": "2bb7abe122174ac8",
+      "generatedAt": "2026-10-28T09:09:19.973Z"
+    },
+    "the-night-markets-missing-lantern": {
+      "title": "The Night Market's Missing Lantern",
+      "ageTier": "8-12",
+      "key": "audio/the-night-markets-missing-lantern.mp3",
+      "seconds": 480.34,
+      "bytes": 3842969,
+      "chars": 8054,
+      "textHash": "177ece829b6cc603",
+      "generatedAt": "2026-10-28T12:05:24.060Z"
+    },
+    "the-house-that-hums-at-night": {
+      "title": "Mila and the Humming House",
+      "ageTier": "8-12",
+      "key": "audio/the-house-that-hums-at-night.mp3",
+      "seconds": 443.04,
+      "bytes": 3544546,
+      "chars": 7355,
+      "textHash": "a9a6f165b68b6e9b",
+      "generatedAt": "2026-10-28T14:00:07.978Z"
+    },
+    "sinbad-the-sailor": {
+      "title": "Sinbad and the Whale That Was an Island",
+      "ageTier": "8-12",
+      "key": "audio/sinbad-the-sailor.mp3",
+      "seconds": 490.27,
+      "bytes": 3922381,
+      "chars": 8335,
+      "textHash": "fea443b127731e3a",
+      "generatedAt": "2026-10-28T16:05:45.700Z"
+    },
+    "the-lantern-keepers-daughter": {
+      "title": "The Lantern Keeper's Daughter Wakes the Moon",
+      "ageTier": "8-12",
+      "key": "audio/the-lantern-keepers-daughter.mp3",
+      "seconds": 548.7,
+      "bytes": 4389869,
+      "chars": 9073,
+      "textHash": "4f445191d88c26fc",
+      "generatedAt": "2026-10-28T20:06:56.056Z"
+    },
+    "the-night-light": {
+      "title": "Maya Lights Her Brother's Room",
+      "ageTier": "8-12",
+      "key": "audio/the-night-light.mp3",
+      "seconds": 534.26,
+      "bytes": 4274303,
+      "chars": 8700,
+      "textHash": "b491e525ece140b2",
+      "generatedAt": "2026-10-28T22:05:02.160Z"
+    },
+    "the-night-the-power-went-out": {
+      "title": "Maya, Her Brother, and the Candlelit Night",
+      "ageTier": "8-12",
+      "key": "audio/the-night-the-power-went-out.mp3",
+      "seconds": 584.59,
+      "bytes": 4677007,
+      "chars": 9550,
+      "textHash": "d17e674d27e81ae0",
+      "generatedAt": "2026-10-29T00:03:20.524Z"
+    },
+    "the-blue-bowl-on-the-top-shelf": {
+      "title": "The Blue Bowl on the Top Shelf",
+      "ageTier": "8-12",
+      "key": "audio/the-blue-bowl-on-the-top-shelf.mp3",
+      "seconds": 471.69,
+      "bytes": 3773797,
+      "chars": 7896,
+      "textHash": "24774aa5e5598987",
+      "generatedAt": "2026-10-29T12:03:37.298Z"
+    },
+    "the-star-in-the-well": {
+      "title": "Nia Climbs Down to the Star in the Well",
+      "ageTier": "8-12",
+      "key": "audio/the-star-in-the-well.mp3",
+      "seconds": 444.45,
+      "bytes": 3555831,
+      "chars": 7575,
+      "textHash": "f1baa8210f75f358",
+      "generatedAt": "2026-10-29T20:04:09.590Z"
+    },
+    "the-goat-who-ate-the-mayors-speech": {
+      "title": "The Goat Who Ate the Mayor's Speech",
+      "ageTier": "8-12",
+      "key": "audio/the-goat-who-ate-the-mayors-speech.mp3",
+      "seconds": 577.38,
+      "bytes": 4619328,
+      "chars": 9451,
+      "textHash": "568ae15c18f38b48",
+      "generatedAt": "2026-10-29T22:05:24.517Z"
+    }
+  }
+}
