@@ -1,0 +1,21 @@
+{
+  "name": "wishingtales-site",
+  "private": true,
+  "packageManager": "pnpm@10.6.5",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "pnpm --filter site dev",
+    "build": "pnpm --filter site build",
+    "typecheck": "pnpm -r typecheck",
+    "verify": "node --experimental-strip-types --disable-warning=ExperimentalWarning --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/verify-build.mjs && node scripts/verify-pagination.mjs",
+    "build:fixture": "CONTENT_DIR=\"$PWD/site/test/fixtures/content\" pnpm build",
+    "verify:reader": "node scripts/verify-reader.mjs",
+    "verify:adult": "node scripts/verify-adult.mjs",
+    "verify:perf": "node scripts/verify-perf.mjs"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.5"
+  }
+}
