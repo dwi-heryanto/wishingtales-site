@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "stories": {
+    "the-first-lantern": {
+      "title": "The First Lantern",
+      "cover": "/covers/the-first-lantern.png",
+      "coverAlt": "A lantern burning on a stone harbour wall at dusk",
+      "series": "the-lantern-keepers",
+      "seriesOrder": 1,
+      "summary": "When the harbour light goes out on the coldest night of the year, Nell has to climb the tower alone.",
+      "genres": [
+        "adventure"
+      ],
+      "themes": [
+        "courage"
+      ],
+      "ageTier": "8-12",
+      "publishedAt": "2026-10-12",
+      "readingTime": 1,
+      "related": [
+        "the-fisherman-and-his-wife",
+        "the-tin-whistle"
+      ]
+    },
+    "the-last-train-home": {
+      "title": "The Last Train Home",
+      "cover": "/covers/the-first-lantern.png",
+      "coverAlt": "A lantern burning on a stone harbour wall at dusk",
+      "summary": "The last train of the night stops at a station that is not on the map, and only one passenger gets off.",
+      "genres": [
+        "spooky"
+      ],
+      "themes": [
+        "courage"
+      ],
+      "ageTier": "13+",
+      "intensity": "intense",
+      "warnings": [
+        "peril",
+        "psychological suspense"
+      ],
+      "publishedAt": "2026-10-14",
+      "readingTime": 1,
+      "related": [
+        "the-monkeys-paw"
+      ]
+    },
+    "the-tin-whistle": {
+      "title": "The Tin Whistle",
+      "cover": "/covers/the-tin-whistle.png",
+      "coverAlt": "A dented tin whistle on a kitchen windowsill in the morning light",
+      "summary": "A whistle found in a drawer plays for everyone, but only Grandmother seems to hear what it is really saying.",
+      "genres": [
+        "everyday magic"
+      ],
+      "themes": [
+        "courage"
+      ],
+      "ageTier": "8-12",
+      "publishedAt": "2026-10-13",
+      "readingTime": 1,
+      "related": [
+        "the-first-lantern",
+        "the-fisherman-and-his-wife"
+      ]
+    },
+    "what-the-fog-brought-in": {
+      "title": "What the Fog Brought In",
+      "cover": "/covers/the-tin-whistle.png",
+      "coverAlt": "A dented tin whistle on a kitchen windowsill in the morning light",
+      "summary": "A lighthouse keeper counts the ships that answer the horn, and this winter one of them answers twice.",
+      "genres": [
+        "horror"
+      ],
+      "themes": [
+        "courage"
+      ],
+      "ageTier": "18+",
+      "intensity": "intense",
+      "warnings": [
+        "death or loss",
+        "frightening imagery",
+        "psychological suspense"
+      ],
+      "publishedAt": "2026-10-15",
+      "readingTime": 1
+    }
+  },
+  "classics": {
+    "the-fisherman-and-his-wife": {
+      "title": "The Fisherman and His Wife",
+      "cover": "/covers/the-fisherman-and-his-wife.png",
+      "coverAlt": "A small boat on a grey sea under a low sky",
+      "summary": "A poor fisherman catches a talking flounder, and his wife discovers that wanting more has no end.",
+      "genres": [
+        "folk tale"
+      ],
+      "themes": [
+        "courage"
+      ],
+      "ageTier": "8-12",
+      "publishedAt": "2026-10-11",
+      "readingTime": 1,
+      "related": [
+        "the-first-lantern",
+        "the-tin-whistle"
+      ]
+    },
+    "the-monkeys-paw": {
+      "title": "The Monkey's Paw",
+      "cover": "/covers/the-first-lantern.png",
+      "coverAlt": "A lantern burning on a stone harbour wall at dusk",
+      "summary": "A mummified paw grants three wishes to whoever holds it, and takes payment in the only currency it deals in.",
+      "genres": [
+        "horror"
+      ],
+      "themes": [
+        "courage"
+      ],
+      "ageTier": "13+",
+      "intensity": "creepy",
+      "warnings": [
+        "death or loss",
+        "frightening imagery"
+      ],
+      "publishedAt": "2026-10-16",
+      "readingTime": 1,
+      "related": [
+        "the-last-train-home"
+      ]
+    }
+  },
+  "featured": {
+    "week": "2026-W46",
+    "slug": "the-fisherman-and-his-wife",
+    "at": "2026-11-15"
+  },
+  "featuredHistory": [
+    {
+      "week": "2026-W46",
+      "slug": "the-fisherman-and-his-wife",
+      "at": "2026-11-15"
+    }
+  ]
+}
